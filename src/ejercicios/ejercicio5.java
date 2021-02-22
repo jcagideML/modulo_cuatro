@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class ejercico5 {
+public class ejercicio5 {
 
     public static int getDigitsAppearences(int number, int digit) {
         int timesAppearing = 0;
